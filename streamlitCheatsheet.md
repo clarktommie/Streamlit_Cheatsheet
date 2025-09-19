@@ -15,12 +15,12 @@ st.set_page_config(page_title="My App", layout="wide")
 ---
 
 ## Titles & Text
-st.title("This is a Title")
-st.header("This is a Header")
-st.subheader("This is a Subheader")
-st.text("This is plain text")
-st.markdown("**Markdown** _formatting_ is supported")
-st.write("Flexible display for text, numbers, DataFrames, etc.")
+- st.title("This is a Title")
+- st.header("This is a Header")
+- st.subheader("This is a Subheader")
+- st.text("This is plain text")
+- st.markdown("**Markdown** _formatting_ is supported")
+- st.write("Flexible display for text, numbers, DataFrames, etc.")
 
 ---
 
